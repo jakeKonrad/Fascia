@@ -1,0 +1,4 @@
+name: fasica
+include: .
+depend: cubical
+flags: --cubical
